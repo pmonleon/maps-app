@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Docs for Mapbox GL JS -> <https://docs.mapbox.com/mapbox-gl-js/guides/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
